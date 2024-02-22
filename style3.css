@@ -9,9 +9,13 @@ button{
     font-family: Arial, sans-serif;
     padding: 10px;
     font-weight: bold;
+    border-radius: 100px;
+    height: 500px;
+    width: 500px;
+    color: white;
 }
 
 button:hover{
     margin-left: 1000px;
-    transform: rotate(1000deg);
+    transform: rotate(100000deg);
 }
