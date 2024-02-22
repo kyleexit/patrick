@@ -15,6 +15,10 @@ button{
     color: white;
 }
 
+body{
+    overflow: auto;
+}
+
 button:hover{
     margin-left: 1000px;
     transform: rotate(100000deg);
