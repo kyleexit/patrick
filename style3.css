@@ -1,0 +1,13 @@
+button{
+    margin-left: 0;
+    transform: rotate(0deg);
+    transition: 
+    margin-left 7s,
+    transform 7s;
+
+}
+
+button:hover{
+    margin-left: 1000px;
+    transform: rotate(1000deg);
+}
