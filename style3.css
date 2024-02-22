@@ -2,9 +2,11 @@ button{
     margin-left: 0;
     transform: rotate(0deg);
     transition: 
-    margin-left 7s,
+    margin-left 3s,
     transform 7s;
-
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
 }
 
 button:hover{
