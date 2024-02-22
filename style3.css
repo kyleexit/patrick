@@ -5,6 +5,8 @@ button{
     margin-left 3s,
     transform 7s;
     font-size: 25px;
+    background-color: green;
+    font-family: Arial, sans-serif;
     padding: 10px;
     font-weight: bold;
 }
