@@ -2,16 +2,16 @@ button{
     margin-left: 0;
     transform: rotate(0deg);
     transition: 
-    margin-left 3s,
-    transform 7s;
+    margin-left 6s,
+    transform 10s;
     font-size: 25px;
     background-color: green;
     font-family: Arial, sans-serif;
     padding: 10px;
     font-weight: bold;
-    border-radius: 100px;
-    height: 500px;
-    width: 500px;
+    border-radius: 10px;
+    height: 80px;
+    width: 200px;
     color: white;
 }
 
@@ -20,6 +20,6 @@ body{
 }
 
 button:hover{
-    margin-left: 1000px;
-    transform: rotate(100000deg);
+    margin-left: 1000000px;
+    transform: rotate(1000deg);
 }
