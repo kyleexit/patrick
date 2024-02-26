@@ -19,7 +19,7 @@
     font-size: 20px;
 }
 
-.login-button{
+form login-button{
     border-radius: 10px;
     color: white;
     background: linear-gradient(50deg, red, blue);
@@ -31,9 +31,10 @@
     cursor: pointer;
     font-family: monospace;
     margin-left: 60px;
+    margin-right: 60px;
 }
 
-login-button:active{
+form login-button:active{
     opacity: .7;
 }
 
