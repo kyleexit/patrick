@@ -12,6 +12,7 @@ button{
 
 body{
     overflow: auto;
+    font-family: monospace;
 }
 
 button:hover{
