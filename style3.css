@@ -23,3 +23,15 @@ button:hover{
 button:active{
  opacity: .6;
 }
+
+.yt-link{
+    transition:
+        text-color .7,
+        text-decoration .7;
+        
+}
+
+.yt-link:hover{
+    text-decoration: underline;
+    text-color: red;
+}
