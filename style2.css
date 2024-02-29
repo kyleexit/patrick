@@ -15,21 +15,26 @@ h1{
 
 .login-box input{
     font-size: 17px;
-    width: 300px;
+    width: 410px;
     border-radius: 15px;
     border: none;
     margin-bottom: 10px;
     padding: 10px;
+    background: transparent;
+    color: white;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
 }
 
 .login-box button{
     font-size: 19px;
-    width: 320px;
-    border-radius: 15px;
+    width: 450px;
+    border-radius: 20px;
     border: none;
     margin-bottom: 10px;
     padding: 10px;
-    background-color: crimson;
+    background-color: dodgerblue;
     color: white;
     font-weight: bold;
 }
