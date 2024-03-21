@@ -2,17 +2,19 @@ button{
     margin: 5px;
     transform: rotate(0deg);
     font-size: 17px;
-    background-color: blue;
-    font-family: Arial, sans-serif;
+    background-color: white;
+    font-family: Calibri, sans-serif;
     padding: 10px;
-    font-weight: bold;
+    border-width: 5px;
     border-radius: 10px;
-    color: white;
+    color: red;
+    border-style: solid;
+    border-color: red;
 }
 
 body{
     overflow: auto;
-    font-family: monospace;
+    font-family: Arial, sans-serif;
 }
 
 button:hover{
