@@ -7,6 +7,14 @@ button{
     padding: 10px;
 }
 
+button:hover{
+    opacity: .7;
+}
+
+button:active{
+    opacity: .85
+}
+
 body{
     display: flex;
     justify-content: center;
