@@ -16,9 +16,12 @@ button:active{
 }
 
 body{
-    display: flex;
-    justify-content: center;
     font-family: Arial, sans-serif;
+}
+
+.container{
+     display: flex;
+    justify-content: center;
 }
 
 
