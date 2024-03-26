@@ -16,6 +16,15 @@ h1{
     text-align: center;
 }
 
+.login-text{
+    display: flex;
+    justify-content: center;
+    text-align: right;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
 .login-box input{
     font-size: 20px;
     width: 400px;
