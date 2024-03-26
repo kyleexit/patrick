@@ -3,6 +3,8 @@ button{
     border-radius: 15px;
     background-color: dodgerblue;
     color: white;
+    border: none;
+    font-weight: bold;
     margin-top: 20px;
     padding: 10px;
 }
