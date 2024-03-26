@@ -21,3 +21,8 @@ button:active{
  opacity: .85;
 }
 
+audio{
+    border-radius: 0px;
+    width: 310px;
+    height: 80px;
+}
