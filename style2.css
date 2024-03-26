@@ -3,10 +3,7 @@ body{
     font-family: Arial, sans-serif;
 }
 
-h1{
-    color: white;
-    font-weight: bold;
-}
+
 
 .login-box{
     margin-left: 50px;
@@ -14,18 +11,6 @@ h1{
     display: flex;
     justify-content: center;
     text-align: center;
-}
-
-.login-text{
-    display: flex;
-    justify-content: center;
-    width: 300px;
-    text-align: left;
-    color: white;
-    margin-top: 20px;
-    font-size: 25px;
-    font-weight: bold;
-    margin-right: 20px;
 }
 
 .login-box input{
@@ -43,7 +28,7 @@ h1{
 
 .login-box button{
     font-size: 25px;
-    width: 410px;
+    width: 420px;
     border-radius: 10px;
     border: none;
     margin-bottom: 10px;
