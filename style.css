@@ -14,7 +14,7 @@ button:hover{
 }
 
 button:active{
-    opacity: .85
+    opacity: .85;
 }
 
 body{
