@@ -3,13 +3,14 @@ button{
     font-size: 20px;
     border: none;
     background: transparent;
-    color: white;
+    
 }
 
 body{
     overflow: auto;
     font-family: Arial, sans-serif;
     background-color: black;
+    color: white;
 }
 
 button:hover{
