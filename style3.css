@@ -9,9 +9,9 @@ button{
 
 body{
     overflow: auto;
-    font-family: Arial, sans-serif;
-    background-color: black;
-    color: white;
+    font-family: Times New Roman, sans-serif;
+    background-color: white;
+    color: black;
 }
 
 button:hover{
