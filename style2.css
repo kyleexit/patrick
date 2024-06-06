@@ -18,6 +18,7 @@ h1{
     display: flex;
     justify-content: center;
     text-align: center;
+    background-image: url("ff7tifa.png");
 }
 
 .login-box input{
