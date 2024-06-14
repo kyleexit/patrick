@@ -4,12 +4,7 @@ body{
 }
 
 h1{
-    color: white;
-}
-
-.orangetext{
     color: black;
-    background-color: orange;
 }
 
 .login-box{
