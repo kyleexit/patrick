@@ -3,8 +3,9 @@ body{
     background-color: white;
 }
 
-h1{
+.title_button{
     color: black;
+    background: transparent;
 }
 
 .login-box{
