@@ -6,6 +6,7 @@ body{
 .title_button{
     color: black;
     background: transparent;
+    font-size: 25px;
 }
 
 .login-box{
