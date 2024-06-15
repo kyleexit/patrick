@@ -22,7 +22,7 @@ h1{
 .login-box input{
     font-size: 15px;
     width: 370px;
-    border-radius: 3px;
+    border-radius: 5px;
     margin-bottom: 10px;
     padding: 10px;
     background: whitesmoke;
@@ -35,7 +35,7 @@ h1{
 .login-box button{
     font-size: 20px;
     width: 400px;
-    border-radius: 3px;
+    border-radius: 5px;
     border: none;
     margin-bottom: 10px;
     padding: 10px;
