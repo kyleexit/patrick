@@ -42,6 +42,7 @@ h1{
     background-color: dodgerblue;
     color: white;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .login-box button:hover{
