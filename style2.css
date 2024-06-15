@@ -16,6 +16,8 @@ h1{
     border-radius: 10px;
     box-shadow: 0px 5px 0px 5px grey;
     width: min-content;
+    padding: 10px;
+    
 }
 
 .login-box input{
