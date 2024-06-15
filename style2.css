@@ -28,8 +28,8 @@ h1{
     padding: 10px;
     background: white;
     color: black;
-    border-color: white;
-    border-width: 3px;
+    border-color: grey;
+    border-width: 5px;
     border-style: solid;
 }
 
