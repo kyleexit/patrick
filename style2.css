@@ -39,6 +39,7 @@ body{
 input:focus{
     outline-style: none;
     box-shadow: none;
+    outline: none;
 }
 
 .login-box button{
