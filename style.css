@@ -1,4 +1,7 @@
 button{
+    display: absolute;
+    top: 50%;
+    right: 50%;
     font-size: 17px;
     border-radius: 3px;
     background-color: lightblue;
