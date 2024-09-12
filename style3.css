@@ -10,8 +10,9 @@ button{
     border-radius: 10px;
     font-weight: bold;
 
-.tiktok{
+.tiktok a{
     color: white;
+    text-decoration: none;
 }
     
 }
