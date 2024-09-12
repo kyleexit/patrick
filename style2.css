@@ -1,6 +1,7 @@
 body{
     font-family: Tahoma, sans-serif;
-    background-color: black;
+    background-image: url="sigma.png";
+    background-repeat: repeat;
 }
 
 .title_button{
