@@ -1,7 +1,7 @@
 button{
     font-size: 17px;
     border-radius: 3px;
-    background-color: orange;
+    background-color: lightblue;
     color: black;
     border: none;
     margin-top: 20px;
@@ -27,6 +27,7 @@ button:active{
 body{
     font-family: Arial, sans-serif;
     background-color: black;
+    color: white;
 }
 
 header{
