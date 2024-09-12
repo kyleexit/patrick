@@ -32,6 +32,8 @@ body{
     font-family: Arial, sans-serif;
     background-color: black;
     color: white;
+    background-image: url="goofyahh.mp4";
+    background-repeat: repeat;
 }
 
 header{
