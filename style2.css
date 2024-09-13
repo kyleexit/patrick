@@ -1,8 +1,8 @@
 body{
-    font-family: Tahoma, sans-serif;
-   background: linear-gradient(50deg, red, blue);
-    color: white;
-    background-size: cover;
+    overflow: auto;
+    font-family: Arial;
+    background-color: lightgrey;
+    color: black;
 }
 
 header{
