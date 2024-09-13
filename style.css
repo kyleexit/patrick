@@ -31,12 +31,6 @@ button:active{
     opacity: .85;
 }
 
-body{
-    font-family: Arial, sans-serif;
-    background-color: black;
-    color: white;
-}
-
 header{
     background-color: black;
     color: white;
