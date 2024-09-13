@@ -1,3 +1,10 @@
+body{
+    overflow: auto;
+    font-family: Arial;
+    background-color: lightgrey;
+    color: black;
+}
+
 button{
     display: absolute;
     top: 100;
