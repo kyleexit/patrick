@@ -5,6 +5,19 @@ body{
     color: black;
 }
 
+.button1{
+    margin: 5px;
+    font-size: 20px;
+    border: none;
+    color: black;
+    background-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
 header{
     align: center;
 }
