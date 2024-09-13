@@ -16,26 +16,6 @@ button{
     border-color: black;
     border-radius: 10px;
     font-weight: bold;
-
-.tiktok a{
-    color: white;
-    text-decoration: none;
-}
-
-
-
-button:hover{
- opacity: .7;
-}
-
-button:active{
- opacity: .85;
-}
-
-audio{
-    border-radius: 0px;
-    width: 310px;
-    height: 80px;
 }
 
 .anidinwebsite{
