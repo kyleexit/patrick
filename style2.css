@@ -1,6 +1,7 @@
 body{
     font-family: Tahoma, sans-serif;
-   background: linear-gradient;
+   background: linear-gradient(50deg, red, blue);
+    color: white;
 }
 
 .title_button{
