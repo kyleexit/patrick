@@ -1,14 +1,14 @@
 button{
     display: absolute;
-    top: 50%;
+    top: 100;
     right: 50%;
-    font-size: 17px;
-    border-radius: 3px;
-    background-color: lightblue;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: crimson;
     color: black;
     border: none;
     margin-top: 20px;
-    padding: 10px;
+    padding: 15px;
 }
 
 .videobackground{
