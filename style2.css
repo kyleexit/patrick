@@ -67,9 +67,9 @@ input:focus{
 }
 
 .login-box button:hover{
-    opacity: .7;
+    background-color: red;
 }
 
 .login-box button:active{
-    opacity: .5;
+    opacity: .8;
 }
