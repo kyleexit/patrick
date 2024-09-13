@@ -1,3 +1,10 @@
+body{
+    overflow: auto;
+    font-family: Arial;
+    background-color: lightgrey;
+    color: black;
+}
+
 button{
     margin: 5px;
     font-size: 20px;
@@ -14,15 +21,8 @@ button{
     color: white;
     text-decoration: none;
 }
-    
-}
 
-body{
-    overflow: auto;
-    font-family: Arial;
-    background-color: black;
-    color: white;
-}
+
 
 button:hover{
  opacity: .7;
