@@ -1,8 +1,12 @@
 body{
-    overflow: auto;
+    overflow: none;
     font-family: Arial;
     background-color: lightgrey;
     color: black;
+
+     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .button1{
@@ -30,10 +34,10 @@ header{
 }
 
 .login-box{
-    display: absolute;
-    align: center;
-    color: black;
-    margin-left: 50%;
+   
+
+
+   
 
 
     
