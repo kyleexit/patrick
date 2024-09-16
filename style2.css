@@ -69,6 +69,8 @@ input:focus{
     color: black;
     font-weight: bold;
     cursor: pointer;
+
+    transition: color .5s;
 }
 
 .login-box button:hover{
