@@ -6,7 +6,6 @@ body{
      display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("abstract.png");
     flex-direction: column;
     justify-content: space-around;
     background-size: cover;
