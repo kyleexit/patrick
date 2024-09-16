@@ -9,6 +9,7 @@ body{
     background-image: url("abstract.png");
     flex-direction: column;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .button1{
