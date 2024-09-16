@@ -1,12 +1,12 @@
 body{
     overflow: none;
     font-family: Arial;
-    background-color: lightgrey;
     color: black;
 
      display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url="abstract.png";
 }
 
 .button1{
