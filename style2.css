@@ -8,6 +8,7 @@ body{
     align-items: center;
     background-image: url("abstract.png");
     flex-direction: column;
+    background-size: cover;
 }
 
 .button1{
