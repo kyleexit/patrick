@@ -33,6 +33,7 @@ header{
     background-color: white;
     width: min-content;
     padding: 10px;
+    backdrop-filter: blur(10px);
     
 }
 
