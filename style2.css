@@ -73,13 +73,13 @@ input:focus{
     margin-bottom: 10px;
     padding: 10px;
     background-color: black;
-    color: white;
+    color: black;
     font-weight: bold;
     cursor: pointer;
 }
 
 .login-box button:hover{
-    color: crimson;
+    color: white;
 }
 
 .login-box button:active{
