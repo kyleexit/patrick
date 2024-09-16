@@ -18,10 +18,13 @@ header{
 }
 
 .title_button{
-    color: black;
+    color: white;
     background: transparent;
-    font-size: 25px;
+    font-size: 40px;
     border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
 }
 
 .login-box{
