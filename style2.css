@@ -73,10 +73,6 @@ input:focus{
     transition: background-color .5s;
 }
 
-.login-box button:active{
-    opacity: .8;
-}
-
-.login-box:hover{
-    background-color: blue;
+.login-box button:hover{
+    background-color: dodgerblue;
 }
