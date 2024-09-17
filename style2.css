@@ -64,16 +64,12 @@ input:focus{
     border: none;
     margin-bottom: 10px;
     padding: 10px;
-    background-color: black;
-    color: black;
+    background-color: dodgerblue;
+    color: white;
     font-weight: bold;
     cursor: pointer;
 
     transition: color .5s;
-}
-
-.login-box button:hover{
-    color: white;
 }
 
 .login-box button:active{
