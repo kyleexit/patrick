@@ -1,6 +1,6 @@
 body{
     overflow: auto;
-    font-family: Arial;
+    font-family: Calibri, sans-serif;
     background-color: lightgrey;
     color: black;
 }
@@ -17,6 +17,14 @@ button{
     border-radius: 10px;
     font-weight: bold;
 }
+
+.sidebar{
+    position: fixed;
+    justify-self: flex-start;
+    width: 500px;
+    background-color: black;
+}
+
 
 .yes-button{
     background-color: white;
