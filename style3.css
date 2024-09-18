@@ -26,6 +26,13 @@ body{
     font-size: 25px;
     color: white;
     background-color: black;
+    border: none;
+    width: 300px;
+    transition: opacity .5s;
+}
+
+.sidebar button:hover{
+    opacity: .7;
 }
 
 
