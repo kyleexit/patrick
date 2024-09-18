@@ -70,7 +70,7 @@ input:focus{
     
     border-width: 1.5px solid black;
 
-    transition: background-color .5s;
+    transition: background-color .5s, color .5s;
 }
 
 .login-box button:hover{
