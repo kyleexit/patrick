@@ -46,7 +46,6 @@ header{
 .login-box input{
     font-size: 15px;
     width: 370px;
-    border-radius: 13px;
     margin-bottom: 20px;
     padding: 10px;
     background: white;
@@ -65,7 +64,6 @@ input:focus{
 .login-box button{
     font-size: 20px;
     width: 400px;
-    border-radius: 13px;
     margin-bottom: 10px;
     padding: 10px;
     background-color: white;
