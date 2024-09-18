@@ -18,9 +18,34 @@ button{
     font-weight: bold;
 }
 
-.anidinwebsite{
-    font-size: 25px;
-    font-weight: bold;
+.yes-button{
+    background-color: white;
+    border: green solid 2px;
+    color: green;
+    padding: 10px;
+    font-size: 15px;
+
+    transition: color .5s, background-color .5s;
+}
+
+.yes-button:hover{
+    color: white;
+    background-color: green;
+}
+
+.no-button{
+    background: white;
+    color: red;
+    border: red solid 2px;
+    padding: 10px;
+    font-size: 15px;
+
+    transition: color .5s, background-color .5s;
+}
+
+.no-button:hover{
+    color: white;
+    background-color: red;
 }
 
 
