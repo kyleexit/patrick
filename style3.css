@@ -25,6 +25,13 @@ button{
     background-color: black;
 }
 
+.sidebar button{
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+}
+
 
 .yes-button{
     background-color: white;
