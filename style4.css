@@ -47,14 +47,13 @@ header{
 }
 
 .login-box input{
-    font-size: 15px;
     width: 370px;
     border-radius: 20px;
     margin-bottom: 20px;
     padding: 10px;
     background: white;
     color: black;
-    border-width: 1.5px solid black;
+    border-width: 2px solid black;
  
 }
 
@@ -75,7 +74,7 @@ input:focus{
     font-weight: bold;
     cursor: pointer;
     
-    border-width: 1.5px solid black;
+    border-width: 2px solid black;
 
     transition: background-color .5s;
 }
