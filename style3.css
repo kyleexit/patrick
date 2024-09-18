@@ -2,10 +2,10 @@ body{
     overflow: auto;
     font-family: Calibri, sans-serif;
     background-color: lightgrey;
-    color: black;
 }
 
 .sidebar{
+    color: white;
     position: fixed;
     top: 0;
     left: 0;
