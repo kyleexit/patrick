@@ -29,44 +29,12 @@ body{
     border: none;
     width: 300px;
     
-    transition: opacity .5s;
+    transition: opacity .5s, background-color .5s;
 }
 
 .sidebar button:hover{
     opacity: .7;
-}
-
-
-.yes-button{
-    background-color: white;
-    border: green solid 2px;
-    color: green;
-    padding: 10px;
-    font-size: 15px;
-    cursor: pointer;
-
-    transition: color .5s, background-color .5s;
-}
-
-.yes-button:hover{
-    color: white;
-    background-color: green;
-}
-
-.no-button{
-    background: white;
-    color: red;
-    border: red solid 2px;
-    padding: 10px;
-    font-size: 15px;
-    cursor: pointer;
-
-    transition: color .5s, background-color .5s;
-}
-
-.no-button:hover{
-    color: white;
-    background-color: red;
+    background-color: rgb(25, 25, 25);
 }
 
 
