@@ -2,6 +2,7 @@ body{
     overflow: none;
     font-family: Calibri, sans-serif;
     color: black;
+    background-image: url("looping.gif");
 
      display: flex;
     justify-content: center;
