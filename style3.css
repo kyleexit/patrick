@@ -24,6 +24,7 @@ button{
     color: green;
     padding: 10px;
     font-size: 15px;
+    cursor: pointer;
 
     transition: color .5s, background-color .5s;
 }
@@ -39,6 +40,7 @@ button{
     border: red solid 2px;
     padding: 10px;
     font-size: 15px;
+    cursor: pointer;
 
     transition: color .5s, background-color .5s;
 }
