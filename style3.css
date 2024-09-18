@@ -5,19 +5,6 @@ body{
     color: black;
 }
 
-button{
-    margin: 5px;
-    font-size: 20px;
-    border: none;
-    color: black;
-    background-color: white;
-    border-style: solid;
-    border-width: 3px;
-    border-color: black;
-    border-radius: 10px;
-    font-weight: bold;
-}
-
 .sidebar{
     position: fixed;
     justify-self: flex-start;
