@@ -79,6 +79,6 @@ input:focus{
 }
 
 .forgotpassword-input{
-    align-self: left;
+    align-self: flex-start;
     
 }
