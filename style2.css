@@ -77,3 +77,8 @@ input:focus{
     background-color: black;
     color: white;
 }
+
+.forgotpassword-input{
+    align-self: left;
+    
+}
