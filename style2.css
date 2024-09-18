@@ -84,5 +84,6 @@ input:focus{
 
 .forgotpassword-input{
     align-self: flex-start;
+    text-decoration: none;
     
 }
