@@ -29,6 +29,7 @@ body{
     background-color: black;
     border: none;
     width: 300px;
+    
     transition: opacity .5s;
 }
 
